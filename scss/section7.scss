@@ -1,0 +1,36 @@
+.section7{
+    height: 300px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background: url("../images/bg-masthead.jpg");
+      background-size: cover;
+  background-position: center;
+    }
+    
+     h1{
+      color: white;
+      font-size:25px;
+    }
+    
+     .email1{
+      margin-top: 30px;
+    }
+    
+      .email2{
+        width: 400px;
+        height: 30px;
+        border: none;
+        border-radius: 5px;
+        padding-left: 10px;
+      }
+
+      ::placeholder{
+      color: gray;
+    }
+    
+      .button{
+        width: 120px;
+        height: 30px;
+      margin-left: 10px;}

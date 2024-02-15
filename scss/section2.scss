@@ -1,0 +1,28 @@
+.section2{
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 50px;
+    background: #f8f9fa;
+  }
+  .block{
+    width: 280px;
+    height: 350px;
+    line-height: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    }
+    .text{
+      color: gray;
+      margin-top: 10px;
+    }
+  
+    .svg{
+      margin-bottom: 20px;}
+  
+      
+  

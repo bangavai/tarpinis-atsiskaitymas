@@ -1,0 +1,48 @@
+.section6{
+    background: #f8f9fa;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+  }
+
+.coments{
+  text-align: center;
+  padding-top: 60px;
+}
+
+.people{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  margin-top: 50px;
+}
+
+  .person{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    width: 300px;
+  }
+
+  .person-photo{
+  width: 120px;
+  border-radius: 100px;
+  margin-bottom:  10px;
+}
+
+.quote{
+    line-height: 20px;
+    color: gray;
+    padding-top: 10px;
+}
+
+.quote-display{
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  align-items: center;
+  text-align: center;
+}
